@@ -1,0 +1,6 @@
+
+Number of child Tickets: 1 
+Number of Adult tickets : 2 
+Number of Senior Citizen tickets: 3 
+Total Cost = 375 dollars
+ Card details:0
